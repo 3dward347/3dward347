@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Currently Learning HTML, CSS and JavaScript through freeCodeCamp.
 <!--
 **3dward347/3dward347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
