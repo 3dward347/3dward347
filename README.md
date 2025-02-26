@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Currently Learning HTML, CSS and JavaScript through freeCodeCamp.
+Complete CSS and HTML freeCodeCamp course.
+Currently Learning Javascript.
 <!--
 **3dward347/3dward347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
